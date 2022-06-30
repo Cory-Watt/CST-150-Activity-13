@@ -1,0 +1,11 @@
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\bin\Debug\Activity 13.exe.config
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\bin\Debug\Activity 13.exe
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\bin\Debug\Activity 13.pdb
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.AssemblyReference.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.SuggestedBindingRedirects.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity_13.Form1.resources
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity_13.Properties.Resources.resources
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.GenerateResource.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.CoreCompileInputs.cache
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.exe
+D:\School\Summer 2022\CST-150 - Programming in C#\Week 6\Activity 13\Activity 13\obj\Debug\Activity 13.pdb
